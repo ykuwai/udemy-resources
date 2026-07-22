@@ -29,7 +29,9 @@ npx skills add ykuwai/udemy-resources
 
 ### 🎓 Agent Skills を徹底解説！
 
-Agent Skills の仕組みから実践的な作り方まで、体系的に学べる講座です。このリポジトリの `skills/` は、講座で扱うサンプルスキルの配布先としても活用できます。
+Agent Skills の仕組みから実践的な作り方まで、体系的に学べる講座です。
+Agent Skills の講座で日本一の受講生を誇ります。
+このリポジトリの `skills/` は、講座で扱うサンプルスキルの配布先としても活用できます。
 
 **[Agent Skillsを徹底解説！ AIエージェントに知識と手順を与えて、思い通りに動かそう！](https://www.udemy.com/course/agent-skills/?referralCode=2DA5EE086D4AE71F2019)**
 
